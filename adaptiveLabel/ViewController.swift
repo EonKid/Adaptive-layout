@@ -7,12 +7,16 @@
 //
 
 import UIKit
+/*
+ Refer following link :-
+ https://stackoverflow.com/questions/26368035/do-we-need-to-use-2-storyboard-for-a-universal-app
+ */
+
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
     }
 
     override func didReceiveMemoryWarning() {
